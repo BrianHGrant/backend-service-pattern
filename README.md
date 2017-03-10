@@ -1,7 +1,7 @@
 ## Hack Oregon Exemplar Backend Service
 
 ## Purpose
-Simple static catalog of the the Hack Oregon service end points
+Simple static catalog of the the Hack Oregon service end points to test.
 
 ## Dependencies
 
@@ -116,3 +116,5 @@ echo ECS_SERVICE_NAME: $ECS_SERVICE_NAME
 
 ### 6. Commit  
 * Commit and push your code and ensure travis builds and deploys correctly
+
+made changes
